@@ -1,2 +1,2 @@
-# vorpraktikum-c-project
- A simple quiz software written in C for my vorpraktikum project.
+# Vorpraktikum C Project - Quiz
+ A simple quiz application written in C for my vorpraktikum project.
