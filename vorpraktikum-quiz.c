@@ -2,9 +2,9 @@
 Vorpraktikum - C Programming Group Project
 TTO: Sir Syam Firdaus Bin Md Ali
 
-Qayyum Yazid
-Abdul Hakim
-Eiyad Al-Fathoni
+Qayyum Yazid - Code Implementation
+Abdul Hakim - Analysis
+Eiyad Al-Fathoni - Flowchart and Design
 */
 
 //Include libraries
