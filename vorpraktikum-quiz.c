@@ -1,6 +1,6 @@
 /*
 Vorpraktikum - C Programming Group Project
-TTO: Sir Syam Firdaus Bin Muhammad Ali
+TTO: Sir Syam Firdaus Bin Md Ali
 
 Qayyum Yazid
 Abdul Hakim
